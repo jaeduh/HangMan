@@ -1,0 +1,6 @@
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\jadag\Documents\ElevenFiftyProjects\Hangman\Hangman\obj\Debug\Hangman.pdb
